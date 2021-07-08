@@ -10,6 +10,8 @@ hello 我是王阳 🐱‍🏍!
 
 #### [浏览器工作原理解析](https://github.com/wy5211/browser-working-principle)
 
+<p color='red'>test color</p>
+
 These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
