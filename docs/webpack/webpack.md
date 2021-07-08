@@ -1,5 +1,11 @@
 ## webpack 常用配置介绍
 
+### 快速导航
+
+[基础配置](#基础配置)
+[eslint](#eslint配置)
+[HMR](#HMR)
+
 ### 基础配置
 
 ```js
@@ -274,7 +280,7 @@ module.exports = {
 };
 ```
 
-### ![生产环境配置看这里](./webpack.prod.md)
+### ![](./webpack.prod.md)
 
 ### webpack 性能优化
 
