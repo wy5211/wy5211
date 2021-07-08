@@ -2,6 +2,8 @@
 
 hello 我是王阳!
 
+<p color='red'>test color</p>
+
 These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
