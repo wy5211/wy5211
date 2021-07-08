@@ -1,6 +1,14 @@
 ### Hi there, I'm 5211! 👋
 
-hello 我是王阳!
+hello 我是王阳 🐱‍🏍!
+
+在这里记录下个人的学习总结:
+
+#### [webpack 配置详解](./docs/webpack/webpack.md)
+
+#### [nodejs 入门笔记](https://github.com/wy5211/nodejs_study)
+
+#### [浏览器工作原理解析](https://github.com/wy5211/browser-working-principle)
 
 These are some of the technologies and tools that I work with:
 
