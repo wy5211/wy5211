@@ -2,7 +2,9 @@
 
 hello 我是王阳 🐱‍🏍!
 
-在这里记录下个人的学习总结:
+语雀：https://www.yuque.com/wangyang-hz1mz
+
+在这里记录下个人的部分学习总结:
 
 #### [webpack 配置详解](./docs/webpack/webpack.md)
 
