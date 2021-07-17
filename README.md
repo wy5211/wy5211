@@ -10,6 +10,8 @@ hello 我是王阳 🐱‍🏍!
 
 #### [浏览器工作原理解析](https://github.com/wy5211/browser-working-principle)
 
+#### [friendly-guide](https://github.com/wy5211/friendly-guide)
+
 更多前端知识，记录在语雀：https://www.yuque.com/wangyang-hz1mz
 
 These are some of the technologies and tools that I work with:
