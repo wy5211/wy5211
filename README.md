@@ -4,7 +4,7 @@ hello 我是王阳 🐱‍🏍!
 
 在这里记录下个人的部分学习总结:
 
-#### [webpack 配置详解](./docs/webpack/webpack.md)
+#### [webpack 配置详解](https://github.com/wy5211/webpack-config/blob/main/docs/webpack.md)
 
 #### [nodejs 入门笔记](https://github.com/wy5211/nodejs_study)
 
