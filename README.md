@@ -12,6 +12,8 @@
 
 #### [图解react源码](https://github.com/wy5211/react-illustration-series)
 
+#### [数据结构与算法-JS](https://github.com/wy5211/algorithm-js)
+
 #### [friendly-guide](https://github.com/wy5211/friendly-guide)
 
 更多前端知识，记录在语雀：https://www.yuque.com/wangyang-hz1mz
