@@ -6,6 +6,12 @@
 
 #### [浏览器工作原理解析](https://github.com/wy5211/browser-working-principle)
 
+#### [重学前端](https://github.com/wy5211/FERelearn)
+
+#### [babel 手册](https://github.com/wy5211/babel-config)
+
+#### [图解react源码](https://github.com/wy5211/react-illustration-series)
+
 #### [friendly-guide](https://github.com/wy5211/friendly-guide)
 
 更多前端知识，记录在语雀：https://www.yuque.com/wangyang-hz1mz
