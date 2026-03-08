@@ -1,5 +1,3 @@
-### 前端菜鸟一个，在这里记录一些笔记:
-
 #### [webpack 配置详解](https://github.com/wy5211/webpack-config/blob/main/docs/webpack.md)
 
 #### [nodejs 入门笔记](https://github.com/wy5211/nodejs_study)
@@ -15,8 +13,6 @@
 #### [数据结构与算法-JS](https://github.com/wy5211/algorithm-js)
 
 #### [friendly-guide](https://github.com/wy5211/friendly-guide)
-
-更多前端知识，记录在语雀：https://www.yuque.com/wangyang-hz1mz
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
